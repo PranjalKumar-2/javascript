@@ -3,6 +3,8 @@ const pi = 3.14
 let accountEmail = "pranjal28@s.com"
 var password = "8324-021"
 acccontcity = "dehradun"
+console.log(typeof acccontcity);
+
 
 accountEmail= "hero@s.com"
 password ="asdfas"
